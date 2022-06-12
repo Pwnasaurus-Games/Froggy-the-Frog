@@ -1,7 +1,7 @@
 {
-	"currentPPDate": 20220611,
-	"nextPPDate": 0,
+	"pp": 20220611,
+	"nextPP": 0,
 	
-	"currentToSDate": 20220531,
-	"nextToSDate": 0
+	"tos": 20220531,
+	"nextToS": 0
 }
